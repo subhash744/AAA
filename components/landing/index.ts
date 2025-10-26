@@ -1,0 +1,6 @@
+export { default as LeaderboardPreview } from './leaderboard-preview'
+export { default as UserMapSection } from './user-map-section'
+export { default as ShowcaseGallery } from './showcase-gallery'
+export { default as HowItWorks } from './how-it-works'
+export { default as CTASection } from './cta-section'
+export { default as Footer } from './footer'
